@@ -2,8 +2,8 @@
     "base_spec": "/pa/units/land/base_bot/base_bot.json",
     "display_name": "Sentinel",
     "description": "Mass Air Murder Bot",
-    "max_health": 300,
-    "build_metal_cost": 20,
+    "max_health": 250,
+    "build_metal_cost": 50,
     "attachable": {
         "offsets": {
             "root": [
@@ -24,7 +24,6 @@
         "UNITTYPE_Offense",
         "UNITTYPE_Land",
         "UNITTYPE_Advanced",
-        "UNITTYPE_FactoryBuild",
         "UNITTYPE_CannonBuildable"
     ],
     "transportable": {
