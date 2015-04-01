@@ -1,5 +1,6 @@
 {
     "units": [
+	    "/pa/units/sea/battleship/battleship.json",
 	    "/pa/units/land/unit_cannon/unit_cannon.json",
 		"/pa/units/land/assault_bot_adv/assault_bot_adv.json",
 	    "/pa/units/land/air_defense/air_defense.json",

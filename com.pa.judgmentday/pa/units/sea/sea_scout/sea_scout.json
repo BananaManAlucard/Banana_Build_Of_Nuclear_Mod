@@ -64,9 +64,6 @@
       "aim_bone": "bone_root"
     }
   ],
-    "death_weapon": {
-        "ground_ammo_spec": "/pa/ammo/self_destruct/basic_unit.json"
-    },
     "events": {
         "build_complete": {
             "audio_cue": "/SE/Build_Complete/sea"
