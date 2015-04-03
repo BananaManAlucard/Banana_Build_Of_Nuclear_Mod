@@ -65,7 +65,6 @@ function BuildHotkeyModel() {
             "/pa/units/orbital/orbital_fighter/orbital_fighter.json": ["orbital", 13],
             "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 14],
 			
-			
             "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json": ["orbitalBase", 8],
             "/pa/units/orbital/solar_array/solar_array.json": ["orbitalBase", 6],
             "/pa/units/orbital/defense_satellite/defense_satellite.json": ["orbitalBase", 9],           
@@ -78,7 +77,6 @@ function BuildHotkeyModel() {
             "/pa/units/air/fabrication_aircraft/fabrication_aircraft.json": ["air", 10],
             "/pa/units/air/fighter/fighter.json": ["air", 12],
             "/pa/units/air/bomber/bomber.json": ["air", 11],
-			
 
             "/pa/units/sea/fabrication_ship_adv/fabrication_ship_adv.json": ["sea", 13],
             "/pa/units/sea/nuclear_sub/nuclear_sub.json": ["sea", 14],
