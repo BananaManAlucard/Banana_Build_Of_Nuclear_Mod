@@ -1,7 +1,7 @@
 {
     "base_spec": "/pa/units/sea/base_ship/base_ship.json",
-    "display_name": "Nuke-viathan",
-    "description": " Nuclear Battleship- Long range advanced anti-ship, and anti-land guns.",
+    "display_name": "!LOC(units:leviathan.message):Leviathan",
+    "description": "!LOC(units:battleship_long_range_advanced_anti_ship_and_anti_land_guns.message):Battleship- Long range advanced anti-ship, and anti-land guns.",
     "max_health": 300,
     "build_metal_cost": 1000,
     "spawn_layers": "WL_WaterSurface",
