@@ -83,7 +83,6 @@ function BuildHotkeyModel() {
             "/pa/units/sea/fabrication_ship/fabrication_ship.json": ["sea", 10],
             "/pa/units/sea/frigate/frigate.json": ["sea", 11],
             "/pa/units/sea/sea_scout/sea_scout.json": ["sea", 12],
-			"/pa/units/sea/battleship/battleship.json": ["sea", 15]
             
 
             "/pa/units/land/land_mine/land_mine.json": ["combat", 1],
