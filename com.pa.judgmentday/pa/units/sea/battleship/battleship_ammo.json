@@ -1,9 +1,9 @@
 {
     "base_spec": "/pa/ammo/base_artillery/base_artillery.json",
-    "damage": 250,
-    "splash_damage": 250,
-    "splash_radius": 50,
-    "full_damage_splash_radius": 10,
+    "damage": 30,
+    "splash_damage": 10,
+    "splash_radius": 45,
+    "full_damage_splash_radius": 8,
     "initial_velocity": 150,
     "max_velocity": 150,
     "splash_damages_allies": false,
@@ -12,8 +12,8 @@
     "audio_loop": "/SE/Movement/missile/battleship_fly_loop",
     "events": {
         "died": {
-            "audio_cue": "/SE/Impacts/missile_nuke",
-            "effect_spec": "/pa/effects/large_missile/nuke_tac_explosion.pfx"
+            "audio_cue": "/SE/Impacts/battleship",
+            "effect_spec": "/pa/units/sea/battleship/nuke_tac_explosion.pfx"
         }
     }
 }
